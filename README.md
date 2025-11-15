@@ -1,1 +1,1 @@
-Ini merupakan File README yang digunakan dalam kode ini, dalam Workshop CPC yaitu GIT GUD.
+Ini merupakan File README yang digunakan dalam kode ini, dalam Workshop CPC yaitu GIT GUD. Dengan pembicara Ko Matthew.
